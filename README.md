@@ -19,7 +19,7 @@ This repository contains Python code to simulate and compare different algorithm
 ## Results
 The results of each algorithm are plotted to show the cumulative rewards over episodes. These plots help in comparing the effectiveness of each algorithm in solving the Multi-Armed Bandit problem.
 
-![Uploading Reward-ActionSelection.png…]()
+![Reward-ActionSelection](https://github.com/ParisaMohammadi9094/MultiArmed_Bandit-ActionSelection/assets/18152407/cce74e2e-5d05-4f6b-a87e-2fa580e3298d)
 
 ## References
 - Sutton, R. S., & Barto, A. G. (2018). Reinforcement Learning: An Introduction (2nd ed.). MIT Press.
